@@ -1,0 +1,7 @@
+﻿  Analizor Lexical.cpp
+C:\Users\Dimitrie Vatra\source\repos\Analizor Lexical\Analizor Lexical\Analizor Lexical.cpp(188): warning C4715: 'analizator::value_from_final_state': not all control paths return a value
+C:\Users\Dimitrie Vatra\source\repos\Analizor Lexical\Analizor Lexical\Analizor Lexical.cpp(176): warning C4172: returning address of local variable or temporary
+C:\Users\Dimitrie Vatra\source\repos\Analizor Lexical\Analizor Lexical\Analizor Lexical.cpp(179): warning C4172: returning address of local variable or temporary
+C:\Users\Dimitrie Vatra\source\repos\Analizor Lexical\Analizor Lexical\Analizor Lexical.cpp(149): warning C4715: 'analizator::ObtineEroare': not all control paths return a value
+C:\Users\Dimitrie Vatra\source\repos\Analizor Lexical\Analizor Lexical\Analizor Lexical.cpp(139): warning C4715: 'analizator::ObtineReferinta': not all control paths return a value
+  Analizor Lexical.vcxproj -> C:\Users\Dimitrie Vatra\source\repos\Analizor Lexical\Debug\Analizor Lexical.exe
